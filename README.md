@@ -1,6 +1,15 @@
 # awesome-badge [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome badge
 
+## Service
+
+- [shields.io](http://shields.io/)
+
+
+## Google Play
+
+[![Get it on Google Play](https://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.pnikosis.materialishprogress.sample)
+
 ## Reference
 
 - [awesome-badges](https://github.com/bevacqua/awesome-badges)
