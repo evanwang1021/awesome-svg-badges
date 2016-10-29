@@ -5,13 +5,15 @@ A curated list of awesome badge
 
 - [shields.io](http://shields.io/)
 
-
-
 ## CI
 
 ### Travis.ci
-- Travis:		![travis](https://img.shields.io/travis/USER/REPO.svg)  https://img.shields.io/travis/USER/REPO.svg
-- Travis branch:		![Travis branch](https://img.shields.io/travis/USER/REPO/BRANCH.svg)  https://img.shields.io/travis/USER/REPO/BRANCH.svg
+
+- Travis:		![Travis](https://img.shields.io/travis/USER/REPO.svg)  
+  https://img.shields.io/travis/USER/REPO.svg
+  
+- Travis Branch:		![Travis branch](https://img.shields.io/travis/USER/REPO/BRANCH.svg)  
+  https://img.shields.io/travis/USER/REPO/BRANCH.svg
 
 ### Circle.ci
 
@@ -20,9 +22,19 @@ A curated list of awesome badge
 ## Code
 ### Github
 
+- Github All Releases:		https://img.shields.io/github/downloads/atom/atom/total.svg
+- Github Releases:		https://img.shields.io/github/downloads/atom/atom/latest/total.svg
+- Github Releases (by Release):		https://img.shields.io/github/downloads/atom/atom/v0.190.0/total.svg
+- Github Releases (by Asset):		https://img.shields.io/github/downloads/atom/atom/latest/atom-amd64.deb.svg
+- GitHub forks:		https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork
+- GitHub stars:		https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star
+- GitHub watchers:		https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch
+- GitHub followers:		https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow
 
 ## Package
 ### NPM
+
+### Gem
 
 ### Jcenter
 
@@ -33,6 +45,14 @@ A curated list of awesome badge
 
 * [Gitter](http://blog.gitter.im/badgers/)
 ![Gitter](https://badges.gitter.im/gitterHQ/gitter.png) https://badges.gitter.im/gitterHQ/gitter.png
+
+### Twitter
+
+- Twitter URL: ![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)  
+  https://img.shields.io/twitter/url/http/shields.io.svg?style=social
+  
+- Twitter Follow: ![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)  
+  https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow
 
 
 ## Google Play
