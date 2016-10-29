@@ -22,14 +22,22 @@ A curated list of awesome badge
 ## Code
 ### Github
 
-- Github All Releases:		https://img.shields.io/github/downloads/atom/atom/total.svg
-- Github Releases:		https://img.shields.io/github/downloads/atom/atom/latest/total.svg
-- Github Releases (by Release):		https://img.shields.io/github/downloads/atom/atom/v0.190.0/total.svg
-- Github Releases (by Asset):		https://img.shields.io/github/downloads/atom/atom/latest/atom-amd64.deb.svg
-- GitHub forks:		https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork
-- GitHub stars:		https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star
-- GitHub watchers:		https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch
-- GitHub followers:		https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow
+- Github All Releases:		
+  https://img.shields.io/github/downloads/atom/atom/total.svg
+- Github Releases:		
+  https://img.shields.io/github/downloads/atom/atom/latest/total.svg
+- Github Releases (by Release):		
+  https://img.shields.io/github/downloads/atom/atom/v0.190.0/total.svg
+- Github Releases (by Asset):		
+  https://img.shields.io/github/downloads/atom/atom/latest/atom-amd64.deb.svg
+- GitHub forks: ![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)
+  https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork
+- GitHub stars:	![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)
+  https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star
+- GitHub watchers: ![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)
+  https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch
+- GitHub followers: ![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)
+  https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow
 
 ## Package
 ### NPM
@@ -43,7 +51,7 @@ A curated list of awesome badge
 ## SMS
 ### Gitter
 
-* [Gitter](http://blog.gitter.im/badgers/)
+* [Gitter](http://blog.gitter.im/badgers/)  
 ![Gitter](https://badges.gitter.im/gitterHQ/gitter.png) https://badges.gitter.im/gitterHQ/gitter.png
 
 ### Twitter
