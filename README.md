@@ -5,10 +5,34 @@ A curated list of awesome badge
 
 - [shields.io](http://shields.io/)
 
+
+
 ## CI
 
-- Travis:		![travis](https://img.shields.io/travis/USER/REPO.svg)
-- Travis branch:		![Travis branch](https://img.shields.io/travis/USER/REPO/BRANCH.svg)
+### Travis.ci
+- Travis:		![travis](https://img.shields.io/travis/USER/REPO.svg)  https://img.shields.io/travis/USER/REPO.svg
+- Travis branch:		![Travis branch](https://img.shields.io/travis/USER/REPO/BRANCH.svg)  https://img.shields.io/travis/USER/REPO/BRANCH.svg
+
+### Circle.ci
+
+### Jenkins
+
+## Code
+### Github
+
+
+## Package
+### NPM
+
+### Jcenter
+
+### Maven
+
+## SMS
+### Gitter
+
+* [Gitter](http://blog.gitter.im/badgers/)
+![Gitter](https://badges.gitter.im/gitterHQ/gitter.png) https://badges.gitter.im/gitterHQ/gitter.png
 
 
 ## Google Play
