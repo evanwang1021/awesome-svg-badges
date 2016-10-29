@@ -22,6 +22,18 @@ A curated list of awesome badge
 ## Code
 ### Github
 
+- Forks: ![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)  
+  https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork
+- Stars:  
+  + ![shields.io](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)
+      https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star
+  + ![githubbadges](http://githubbadges.com/fork.svg?user=bubkoo&repo=with-badges&style=flat&color=fff&background=007ec6)
+      https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star
+      
+- Watchers: ![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)  
+  https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch
+- Followers: ![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)  
+  https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow
 - Github All Releases:		
   https://img.shields.io/github/downloads/atom/atom/total.svg
 - Github Releases:		
@@ -30,15 +42,7 @@ A curated list of awesome badge
   https://img.shields.io/github/downloads/atom/atom/v0.190.0/total.svg
 - Github Releases (by Asset):		
   https://img.shields.io/github/downloads/atom/atom/latest/atom-amd64.deb.svg
-- Forks: ![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)  
-  https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork
-- Stars:	![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)  
-  https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star
-- Watchers: ![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)  
-  https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch
-- Followers: ![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)  
-  https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow
-
+  
 ## Package
 ### NPM
 
