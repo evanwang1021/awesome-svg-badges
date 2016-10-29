@@ -5,6 +5,11 @@ A curated list of awesome badge
 
 - [shields.io](http://shields.io/)
 
+## CI
+
+- Travis:		![travis](https://img.shields.io/travis/USER/REPO.svg)
+- Travis branch:		![Travis branch](https://img.shields.io/travis/USER/REPO/BRANCH.svg)
+
 
 ## Google Play
 
